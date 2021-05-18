@@ -2,18 +2,22 @@ import struct
 
 
 def f31(x):
-    # return struct.unpack_from('<Q8QQ8QfdQQ8s6q3q', x, offset=2)
-    return struct.pack('<s', 'yuupamom')
-
-
-a = (b'\x10JCHP\xcb\\\xb8\xb8\xa6\xff\x15\xe0\xb8\xe0\x956\xc4=\xa8\xcb\x95\x1a\xb9'
-     b'\x85\xa2\xdf\x96\xe4\xc5\x1c\x0eV#\xd5\xaam]\xab\xc7\x05J5\xad\x14DA('
-     b'\xa8\xfb\xf3\x94\xf6=\x00p\xa1\xe5|\xf1\x92\xbf\x85\xf0yuupamom\xe8\xff\x81~'
-     b'\xa90\x03\xe1\x08')
-
-print(f31(a))
-
-
-b = (b"\x10JCHP\xf1;l\x9f\xc7\xd0\x15F\xb8\x9fk1\xbb\xdf\x95\xfe\n\x98\xfb\xcfE'e"
-     b'\x1f\xb7\x12t\x0b\xc6\xe4d\xf0M8\xfc\x18\xe0\xdbu\x97\x91`v\xda\nM\x0e'
-     b'\xdc>\xb0X^\x81\x96\xb6\xe9?w\x0ewclyjoamvp\xfd\xa7\xe2\xb9G\xc1\xee')
+    return {'A1': {'B1': [{'C1': (struct.unpack("1B", x[5:6])[0]), 'C2': (struct.unpack("<1Q", x[6:14])[0])},
+                          {'C1': (struct.unpack("1B", x[14:15])[0]), 'C2': (struct.unpack("<1Q", x[15:23])[0])},
+                          {'C1': (struct.unpack("1B", x[23:24])[0]), 'C2': (struct.unpack("<1Q", x[24:32])[0])},
+                          {'C1': (struct.unpack("1B", x[32:33])[0]), 'C2': (struct.unpack("<1Q", x[33:41])[0])}],
+                   'B2': (struct.unpack("1B", x[41:42])[0]),
+                   'B3': (struct.unpack("<1Q", x[42:50])[0]),
+                   'B4': (struct.unpack("<1f", x[50:54])[0])},
+            'A2': (struct.unpack("<1d", x[54:62])[0]),
+            'A3': (struct.unpack("<1H", x[62:64])[0]),
+            'A4': (struct.unpack("<8s", x[64:72])[0]).decode('utf-8'),
+            'A5': {'D1': [(struct.unpack("1b", x[72:73])[0]),
+                          (struct.unpack("1b", x[73:74])[0]),
+                          (struct.unpack("1b", x[74:75])[0]),
+                          (struct.unpack("1b", x[75:76])[0]),
+                          (struct.unpack("1b", x[76:77])[0]),
+                          (struct.unpack("1b", x[77:78])[0])],
+                   'D2': [(struct.unpack("1b", x[78:79])[0]),
+                          (struct.unpack("1b", x[79:80])[0]),
+                          (struct.unpack("1b", x[80:81])[0])]}}
