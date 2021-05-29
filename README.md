@@ -20,18 +20,3 @@
 5. [Практическая работа №5](<https://github.com/nikolaevaxenov/PythonCourse/blob/master/Без%20варианта%20(Доп.%20задания)/Практическая%20работа%20№5%20(доп.%20задание)/>)
 6. [Практическая работа №6](<https://github.com/nikolaevaxenov/PythonCourse/blob/master/Без%20варианта%20(Доп.%20задания)/Практическая%20работа%20№6%20(доп.%20задание)/>)  
    [_Ссылка на nbviewer_](<https://github.com/nikolaevaxenov/PythonCourse/blob/master/Без%20варианта%20(Доп.%20задания)/Практическая%20работа%20№6%20(доп.%20задание)/ПР6.ipynb>)
-=======
-1. [Практическая работа №1](https://github.com/nikolaevaxenov/PythonCourse/blob/master/PR1/)  
-   [_Ссылка на nbviewer_](https://nbviewer.jupyter.org/github/nikolaevaxenov/PythonCourse/blob/master/PR1/ПР1_Вар21_Николаев-Аксенов_ИКБО-20-19.ipynb)
-2. [Практическая работа №2](https://github.com/nikolaevaxenov/PythonCourse/blob/master/PR2/)  
-   [_Ссылка на nbviewer_](https://nbviewer.jupyter.org/github/nikolaevaxenov/PythonCourse/blob/master/PR2/ПР2_Вар21_Николаев-Аксенов_ИКБО-20-19.ipynb)
-3. [Практическая работа №3](https://github.com/nikolaevaxenov/PythonCourse/blob/master/PR3/)
-
-**Дополнительные задания:**
-
-1. [Практическая работа №1](https://github.com/nikolaevaxenov/PythonCourse/blob/master/PR1/)  
-   [_Ссылка на nbviewer_](https://nbviewer.jupyter.org/github/nikolaevaxenov/PythonCourse/blob/master/PR1/ПР1_Вар21_Николаев-Аксенов_ИКБО-20-19.ipynb)
-2. [Практическая работа №2](https://github.com/nikolaevaxenov/PythonCourse/blob/master/PR2/)  
-   [_Ссылка на nbviewer_](https://nbviewer.jupyter.org/github/nikolaevaxenov/PythonCourse/blob/master/PR2/ПР2_Вар21_Николаев-Аксенов_ИКБО-20-19.ipynb)
-3. [Практическая работа №3](https://github.com/nikolaevaxenov/PythonCourse/blob/master/PR3/)
->>>>>>> 71c7eb9e529f236a34c6727bbbbd6c909eb2a135
