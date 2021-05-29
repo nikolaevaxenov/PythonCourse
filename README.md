@@ -5,7 +5,7 @@
 1. [Практическая работа №1](https://github.com/nikolaevaxenov/PythonCourse/blob/master/По%20вариантам/Практическая%20работа%20№1/)  
    [_Ссылка на nbviewer_](https://github.com/nikolaevaxenov/PythonCourse/blob/master/По%20вариантам/Практическая%20работа%20№1/ПР1_Вар21_Николаев-Аксенов_ИКБО-20-19.ipynb)
 2. [Практическая работа №2](https://github.com/nikolaevaxenov/PythonCourse/blob/master/По%20вариантам/Практическая%20работа%20№2/)  
-   [_Ссылка на nbviewer_](https://github.com/nikolaevaxenov/PythonCourse/blob/master/По%20вариантам/Практическая%20работа%20№2/ПР1_Вар21_Николаев-Аксенов_ИКБО-20-19.ipynb)
+   [_Ссылка на nbviewer_](https://github.com/nikolaevaxenov/PythonCourse/blob/master/По%20вариантам/Практическая%20работа%20№2/ПР2_Вар21_Николаев-Аксенов_ИКБО-20-19.ipynb)
 3. [Практическая работа №3](https://github.com/nikolaevaxenov/PythonCourse/blob/master/По%20вариантам/Практическая%20работа%20№3/)
 
 **Дополнительные задания:**
