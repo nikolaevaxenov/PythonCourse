@@ -19,3 +19,5 @@
 5. [Практическая работа №5](<https://github.com/nikolaevaxenov/PythonCourse/blob/master/Без%20варианта%20(Доп.%20задания)/Практическая%20работа%20№5%20(доп.%20задание)/>)
 6. [Практическая работа №6](<https://github.com/nikolaevaxenov/PythonCourse/blob/master/Без%20варианта%20(Доп.%20задания)/Практическая%20работа%20№6%20(доп.%20задание)/>)  
    [_Ссылка на nbviewer_](<https://nbviewer.jupyter.org/github/nikolaevaxenov/PythonCourse/blob/master/Без%20варианта%20%28Доп.%20задания%29/Практическая%20работа%20№6%20%28доп.%20задание%29/ПР6.ipynb>)
+
+[**Персональный проект**](<https://github.com/nikolaevaxenov/PythonCourse/tree/master/Персональный%20проект%20(FirefoxLocker)>)
